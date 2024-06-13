@@ -8,10 +8,32 @@ Below is an example of the data format used in this repository:
 ```json
 [
     {
-        "ID": "5bec5fc3-c6ca-4a8a-8348-80e9ce5aded1",
-        "PassageID": "1",
-        "Passage": "INTRODUCTION",
+        "ID": "37fb28d2-7989-47b1-becf-e003bbee215d",
+        "PassageID": "Part 1.3.(1)",
+        "Passage": "For the purposes of these Regulations, any explanatory material and guidance issued by the Competent Authority for the purpose of assisting with the implementation of the IGA and the Cabinet Resolution is integral to giving effect to the IGA and Cabinet Resolution and accordingly forms the required rights and obligations under these Regulations.\n",
         "Obligations": []
+    },
+{
+        "ID": "072df60e-d5ac-4352-8041-8b8155d17f2b",
+        "PassageID": "Part 3.7.(2)",
+        "Passage": "Every Reporting UAE Financial Institution that is required to keep, obtain or create records under these Regulations shall retain those records for a period of at least six (6) years after the date of reporting to the Regulatory Authority.",
+        "Obligations": [
+            "Obligation:1 \"Retain Records**: Maintain all necessary records for a minimum of six years from the date of reporting to the Regulatory Authority.\"",
+            "Obligation:2 \"Types of Records**: Keep documentation and information related to financial accounts, customer due diligence, account information, due diligence procedures, reporting forms, and any reports submitted to the Regulatory Authority.\"",
+            "Obligation:3 \"Accessibility**: Ensure records are easily accessible and retrievable upon request by the Regulatory Authority, implying an efficient storage and retrieval system.\"",
+            "Obligation:4 \"Data Protection Compliance**: Adhere to applicable data protection laws while handling personal data within the records.\"",
+            "Obligation:5 \"Destruction of Records**: Implement secure destruction policies for records that are no longer required after the six-year retention period, in compliance with legal, regulatory, and operational guidelines.\"",
+            "Obligation:6 \"Demonstrate Compliance**: Maintain records in a manner that demonstrates compliance with reporting obligations and can substantiate the information reported.\"",
+            "Obligation:7 \"Regular Audits and Reviews**: Conduct regular audits or reviews of record retention policies and practices to ensure compliance.\"",
+            "Obligation:8 \"Policy Documentation**: Develop and maintain a written record retention policy that details the approach to meeting obligations, including roles and responsibilities.\"",
+            "Obligation:9 \"Stay Informed**: Keep updated with any changes to the ADGM regulations that may affect record retention requirements.\"",
+            "Obligation:10 \"Internal Policies and Procedures**: Establish and uphold internal policies and procedures for managing record retention in line with regulations.\"",
+            "Obligation:11 \"Training**: Train relevant staff on the record retention requirements to ensure awareness and compliance.\"",
+            "Obligation:12 \"Prepare for Audits**: Be ready for potential audits or compliance checks by the Regulatory Authority, which may require providing access to retained records.\n\nThese action items should be cross-referenced with current ADGM regulations and other relevant laws or guidelines. Always consult the actual regulatory texts or seek professional advice to ensure full compliance.\""
+        ],
+        "NamedEntities": {
+            "financial institution": "financial service provider identified as either a government agency or privately owned entity that collects funds from the public and from other institutions, and invests those funds in financial assets, such as loans, securities, bank deposits, and income-generating property"
+        }
     },
     {
         "ID": "2230472f-a9d4-4b81-842f-964c0653f8e7",
