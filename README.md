@@ -1,8 +1,6 @@
-![image](https://github.com/tubagokhan/OblgationClassfier/assets/60702828/19dd9576-dfec-463e-80c9-f25ba4281592)# ObligationClassifier
+
 # ObligationClassifier
 
-## Overview
-This repository contains a curated sample of annotated data from the Abu Dhabi Global Market (ADGM) regulations. The annotations include obligations, named entities, and defined terms, providing legal practitioners with valuable resources for understanding and applying English law within ADGM.
 
 ## Sample Data
 Below is an example of the data format used in this repository:
