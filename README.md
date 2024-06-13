@@ -13,7 +13,7 @@ Below is an example of the data format used in this repository:
         "Passage": "For the purposes of these Regulations, any explanatory material and guidance issued by the Competent Authority for the purpose of assisting with the implementation of the IGA and the Cabinet Resolution is integral to giving effect to the IGA and Cabinet Resolution and accordingly forms the required rights and obligations under these Regulations.\n",
         "Obligations": []
     },
-{
+    {
         "ID": "072df60e-d5ac-4352-8041-8b8155d17f2b",
         "PassageID": "Part 3.7.(2)",
         "Passage": "Every Reporting UAE Financial Institution that is required to keep, obtain or create records under these Regulations shall retain those records for a period of at least six (6) years after the date of reporting to the Regulatory Authority.",
